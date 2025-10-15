@@ -66,9 +66,19 @@ Currently, the app also includes a **News section** that fetches the latest DMV-
 ---
 
 ## 📸 Screenshots
+- HomeScreen
 <p>
   <img src="docs/ss1.png" alt="Screenshot 1" style="width:48%; height:auto;"/>
+</p>
+
+- News List
+<p>
   <img src="docs/ss2.png" alt="Screenshot 2" style="width:48%; height:auto;"/>
+</p>
+
+- News Details
+<p>
+  <img src="docs/ss3.png" alt="Screenshot 3" style="width:48%; height:auto;"/>
 </p>
 
 ---
