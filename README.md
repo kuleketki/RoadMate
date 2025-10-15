@@ -66,9 +66,10 @@ Currently, the app also includes a **News section** that fetches the latest DMV-
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here once your UI stabilizes — e.g., splash screen, home screen, article list/detail screen)*
-<img src="docs/ss1" alt="">
-<img src="docs/ss2" alt="">
+<p>
+  <img src="docs/ss1.png" alt="Screenshot 1" style="width:48%; height:auto;"/>
+  <img src="docs/ss2.png" alt="Screenshot 2" style="width:48%; height:auto;"/>
+</p>
 
 ---
 
